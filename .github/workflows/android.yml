@@ -25,5 +25,5 @@ jobs:
     - name: Build with Gradle
       run: |
         gradle init
-        ./radlew build
+        ./gradlew build
 
